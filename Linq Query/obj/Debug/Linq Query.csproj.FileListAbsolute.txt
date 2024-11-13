@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\bin\Debug\Linq Query.exe.config
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\bin\Debug\Linq Query.exe
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\bin\Debug\Linq Query.pdb
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\obj\Debug\Linq Query.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\obj\Debug\Linq Query.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\obj\Debug\Linq Query.exe
+C:\Users\Učenik\source\repos\Linq Query\Linq Query\obj\Debug\Linq Query.pdb
